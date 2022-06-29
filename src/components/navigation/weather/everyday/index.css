@@ -1,0 +1,72 @@
+.weatherTop {
+  margin-bottom: 15px;
+}
+.weatherTop a {
+  text-decoration: none;
+}
+
+.weatherTop-date1 {
+  color: #333;
+  font: 13px/23px Arial,sans-serif;
+  cursor: default;
+  margin-right: 16px;
+}
+.weatherTop-date2 {
+  color: #9195a3;
+  font: 13px/23px Arial,sans-serif;
+  cursor: default;
+  margin-right: 16px;
+}
+.weatherTop-text3 {
+  text-decoration: none;
+  color: #315efb;
+  font: 13px/23px Arial,sans-serif;
+  cursor: pointer;
+}
+.weatherTop-text4 {
+  color: #9195a3;
+  font: 13px/23px Arial,sans-serif;
+  cursor: pointer;
+  float: right;
+}
+.weatherBottom {
+  width: 496px;
+}
+.weatherBottom-day {
+  color: -webkit-link;
+  cursor: pointer;
+  text-align: center;
+  width: 85px;
+  text-decoration: none;
+  color: #333;
+  font: 13px/23px Arial,sans-serif;
+  display: inline;
+  margin-right: 10px;
+  float: left;
+}
+.weatherBottom-day:hover {
+  background-color: #F5F5F6;
+  border-radius: 5px;
+  color: #333!important;
+  text-decoration: none;
+}
+.weatherBottom-day img {
+  width: 32px;
+  height: 32px;
+  margin: 3px auto;
+  display: block;
+}
+.weather-bottom-text1 {
+  font-size: 12px;
+  margin-top: -3px;
+}
+.weather-bottom-text2 {
+  margin: -2px 0;
+  font-size: 12px;
+}
+.weather-bottom-text3 {
+  font-size: 12px;
+  white-space: nowrap; 
+  text-overflow:ellipsis;
+  overflow:hidden;
+}

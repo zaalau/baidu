@@ -1,0 +1,64 @@
+.followBone {
+  position: relative;
+  width: 100%;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 8px 0 rgb(0 0 0 / 8%);
+  border-radius: 12px;
+  word-wrap: break-word;
+  word-break: break-all;
+  font: 14px/24px Arial,sans-serif;
+  color: #222;
+  padding: 24px 16px;
+  height: 130px;
+}
+.followBone-top div {
+  display: inline-block;
+}
+.followBone-top-right {
+  float: right;
+}
+.followBone-top-right span {
+  margin-left: 20px;
+}
+.followBone-bottom {
+  display: inline-block;
+  width: 940px;
+
+}
+.tieba {
+  width: 79px;
+  height: 100%;
+  display: inline;
+  
+  height: 130px;
+  
+  float: left;
+  margin-top: 12px;
+
+}
+.tieba-right {
+  width: 940px;
+    display: inline;
+
+
+}
+.tieba-content {
+  display: block;
+    
+    margin: 16px 90px 0 0;
+    text-decoration: none;
+    color: #333;
+  float: left;
+  
+}
+.tieba-content img {
+  height: 32px;
+  width: 32px;
+  margin-right: 5px;
+  position: relative;
+}
+.tieba-text {
+  position: absolute;
+  vertical-align: middle;
+  padding: 5px 0 0 3px;
+}

@@ -1,0 +1,248 @@
+.recommend {
+  width: 560px;
+  margin-top: -16px;
+}
+.recommend-left {
+  width: 560px;
+  height: 565px;
+  display: inline;
+}
+.recommend-right {
+  width: 272px;
+  height: 384px;
+  display: inline;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.news-container {
+  position: relative;
+  padding: 18px 0;
+  width: 100%;
+  font: 14px/24px Arial,sans-serif;
+  color: #222;
+  cursor: default;
+}
+.news-container-img {
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  border-radius: 12px;
+  width: 184px;
+  height: 122px;
+  cursor: pointer;
+}
+.news-right {
+  width: 372px;
+  height: 147px;
+  box-sizing: border-box;
+  padding: 8px 0 0 0;
+  display: inline-block;
+  position: absolute;
+  top: 15px;
+  margin-left: 16px;
+}
+.news-text {
+  color: #333;
+  text-decoration: none;
+  font: 20px/30px Arial,sans-serif;
+  cursor: pointer;
+}
+.news-text:hover {
+  color: #4e6ef2
+}
+.news-text-bottom {
+  font-weight: 400;
+  color: #626675;
+  text-decoration: none;
+  cursor: pointer;
+  font: 13px/23px Arial,sans-serif;
+  position: absolute;
+  bottom: 22px;
+}
+.hot-pic-left img {
+  height: 16px;
+  width: 78px;
+  font-size: 14px;
+}
+.hot-pic-right {
+  width: 61px;
+  height: 15px;
+  position: absolute;
+  left: 100px;
+  
+}
+.hotobj {
+  text-decoration: none;
+}
+.hot-container span {
+  font-size: 18px;
+  width: 22px;
+}
+.numColor1 {
+  color: #fe2d46;
+  margin-right: 3px;
+}
+.numColor2 {
+  color: #f60;
+}
+.numColor3 {
+  color: #faa90e;
+}
+.numColor4 {
+  color: #9195a3;
+}
+.numColor5 {
+  color: #9195a3;
+}
+.numColor6 {
+  color: #9195a3;
+}
+.numColor7 {
+  color: #9195a3;
+}
+.numColor8 {
+  color: #9195a3;
+}
+.numColor9 {
+  color: #9195a3;
+}
+.numColor10 {
+  color: #9195a3;
+}
+.numColor11 {
+  color: #9195a3;
+}
+.numColor12 {
+  color: #9195a3;
+}
+.numColor13 {
+  color: #9195a3;
+}
+.numColor14 {
+  color: #9195a3;
+}
+.numColor15 {
+  color: #9195a3;
+}
+.numColor16 {
+  color: #9195a3;
+}
+.numColor17 {
+  color: #9195a3;
+}
+.numColor18 {
+  color: #9195a3;
+}
+.numColor19 {
+  color: #9195a3;
+}
+.numColor20 {
+  color: #9195a3;
+}
+.numColor21 {
+  color: #9195a3;
+}
+.numColor22 {
+  color: #9195a3;
+}
+.numColor23 {
+  color: #9195a3;
+}
+.numColor24 {
+  color: #9195a3;
+}
+.numColor25 {
+  color: #9195a3;
+}
+.numColor26 {
+  color: #9195a3;
+}
+.numColor27 {
+  color: #9195a3;
+}
+.numColor28 {
+  color: #9195a3;
+}
+.numColor29 {
+  color: #9195a3;
+}
+.numColor30 {
+  color: #9195a3;
+}
+.span2 {
+  font-size: 16px!important;
+  height: 16px!important;
+  line-height: 36px!important;
+  white-space: nowrap!important; 
+  text-overflow:ellipsis!important;
+  overflow:hidden!important;
+  color: #222!important;;
+}
+.span2:hover {
+  color: #4e6ef2!important;
+}
+.news-div {
+  position: relative;
+}
+.news-right2 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  bottom: 33px;
+  right: 7px;
+}
+.news-right3 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  bottom: 33px;
+  right: 7px;
+}
+.news-right4 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  bottom: 33px;
+  right: 7px;
+}
+.news-right5 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  bottom: 33px;
+  right: 7px;
+}
+.news-right6 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  bottom: 33px;
+  right: 7px;
+}
+.news-right7 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  bottom: 33px;
+  right: 7px;
+}
+.news-right8 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  bottom: 33px;
+  right: 7px;
+}
+.news-right9 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  bottom: 33px;
+  right: 7px;
+}
+.news-right10 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  bottom: 33px;
+  right: 7px;
+}

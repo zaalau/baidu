@@ -1,0 +1,12 @@
+.all {
+  width: 100%;
+  height: auto;
+}
+.top {
+  width: 100%;
+  padding: 0px 24px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline;
+}

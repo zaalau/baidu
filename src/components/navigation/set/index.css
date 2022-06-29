@@ -1,0 +1,22 @@
+.set {
+  width: 78px;
+  padding: 12px;
+  background: #fff;
+  font: 13px/23px Arial,sans-serif;
+  color: #000;
+  position: absolute;
+  top: 50px;
+  right: 150px;
+  z-index: 500!important;
+  box-shadow: 0 2px 10px 0 rgb(0 0 0 / 15%);
+  border-radius: 12px !important;
+  box-sizing: border-box;
+  text-align: center;
+}
+.set a {
+  display: block;
+  text-decoration: none;
+  color: #000;
+  margin-bottom: 4px;
+  box-sizing: border-box;
+}

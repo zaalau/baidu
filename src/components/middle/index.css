@@ -1,0 +1,91 @@
+.baiduPic {
+  text-align: center;
+  height: 188.4px;
+  margin: 50px 0 0 0;
+  position: relative;
+
+}
+.baiduPic img {
+  width: 270px;
+    aspect-ratio: auto 270 / 129;
+    height: 129px;
+}
+.search {
+  width: 645px;
+  height: 41px;
+  text-align: center;
+  position: absolute;
+  left: 25%;
+  top: 189px;
+  border: 2px solid #c4c7ce;
+  border-radius: 10px 0 0 10px;
+  border-right: none;
+}
+.search:hover {
+  border: 2px solid #AAACB7;
+  border-right: none;
+}
+.search:active {
+  border: 2px solid #4e6ef2;
+  border-right: none;
+}
+
+.searchInput {
+  height: 16px;
+  padding: 12px 16px;
+  font-size: 16px;
+  margin: 0;
+  vertical-align: top;
+  outline: 0;
+  box-shadow: none;
+  
+  border: none;
+  border-right: none;
+  background: #fff;
+  color: #222;
+  overflow: hidden;
+  box-sizing: content-box;
+  -webkit-tap-highlight-color: transparent;
+  width: 440px;
+  float: left;
+  position: absolute;
+  left: 6px;
+}
+.twoPic {
+  
+  border-right: none;
+  width: 120px;
+  height: 40px;
+  display: inline-block;
+  position: absolute;
+  left: 430px;
+}
+.pics {
+  width: 60px;
+  height: 27px;
+  float: right;
+  position: absolute;
+  top: 7px;
+  left: 40px;
+  
+}
+.baiduBtn {
+  cursor: pointer;
+    width: 108px;
+    height: 44px;
+    line-height: 45px;
+    padding: 0;
+    background: 0 0;
+    background-color: #4e6ef2;
+    border-radius: 0 10px 10px 0;
+    font-size: 17px;
+    color: #fff;
+    box-shadow: none;
+    font-weight: 400;
+    border: none;
+    outline: 0;
+    font-family: Arial,sans-serif;
+  position: absolute;
+  left: 550px;
+  bottom: -1.25px;
+}

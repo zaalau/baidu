@@ -1,0 +1,139 @@
+.news {
+  width: 940px;
+  height: 1000px;
+  margin-top: 90px;
+  margin-left: 13%;
+  position: relative;
+}
+.news-tab {
+  width: 500px;
+  
+  
+}
+.news-tab1 {
+   display: inline-block;
+   margin-right: 20px;
+   margin-top: 4px;
+   margin-bottom: 2px;
+   font-size: 14px;
+   color: #9195a3;
+   box-sizing: border-box;
+   border:2px solid white;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   
+}
+.news-tab2 {
+   display: inline-block;
+   margin-right: 25px;
+   margin-top: 4px;
+   margin-bottom: 2px;
+   font-size: 14px;
+   color: black;
+   box-sizing: border-box;
+   border:2px solid #4e6ef2;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+}
+.news-tab3 {
+  display: inline-block;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  font-size: 14px;
+  color: #9195a3;
+  box-sizing: border-box;
+  border:2px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.news-tab1:hover,.news-tab2:hover,.news-tab3:hover {
+  color: black;
+  cursor: pointer;
+}
+.tab1 {
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  font-size: 14px;
+  color: black;
+  box-sizing: border-box;
+  border:2px solid #4e6ef2;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  
+}
+.tab2 {
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  font-size: 14px;
+  color: #9195a3;
+  box-sizing: border-box;
+  border:2px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.tab3 {
+ display: inline-block;
+ margin-top: 4px;
+ margin-bottom: 2px;
+ font-size: 14px;
+ color: #9195a3;
+ box-sizing: border-box;
+ border:2px solid white;
+ border-top: none;
+ border-left: none;
+ border-right: none;
+}
+.tab11 {
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  font-size: 14px;
+  color: #9195a3;
+  box-sizing: border-box;
+  border:2px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  
+}
+.tab22 {
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  font-size: 14px;
+  color: #9195a3;
+  box-sizing: border-box;
+  border:2px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.tab33 {
+ display: inline-block;
+ margin-top: 4px;
+ margin-bottom: 2px;
+ font-size: 14px;
+ color: black;
+ box-sizing: border-box;
+ border:2px solid #4e6ef2;
+ border-top: none;
+ border-left: none;
+ border-right: none;
+}
+.newsBone {
+  width: 940px;
+  height: 800px;
+  box-sizing: border-box;
+  padding: 16px 0;
+}
